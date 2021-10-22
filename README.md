@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Work In Progress!](Work In Progress!)
 
-- 📝 I've started to write articles on [https://medium.com/@Matthew_Storey](https://medium.com/@Matthew_Storey)
+- 📝 I've going to start writing articles on [https://medium.com/@Matthew_Storey](https://medium.com/@Matthew_Storey)
 
 - 💬 Ask me about **anything related to Computers, I love to make new friends!**
 
