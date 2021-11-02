@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and C++**
 
-- 👨‍💻 All of my projects are available at [Work In Progress!](Work In Progress!)
+- 👨‍💻 All of my projects are available at (Work In Progress!)
 
 - 📝 I've going to start writing articles on [https://medium.com/@Matthew_Storey](https://medium.com/@Matthew_Storey)
 
